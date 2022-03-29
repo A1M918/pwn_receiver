@@ -1,0 +1,7 @@
+{
+    "port": "COM11",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "sketch": "receiver_pwm.ino",
+    "configuration": "cpu=atmega328"
+}
